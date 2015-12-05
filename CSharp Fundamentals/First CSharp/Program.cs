@@ -8,6 +8,8 @@ namespace First_CSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
