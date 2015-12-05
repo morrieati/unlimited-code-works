@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace First_CSharp
+namespace HelloWorld
 {
     class Program
     {
