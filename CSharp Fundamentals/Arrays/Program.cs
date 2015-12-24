@@ -10,7 +10,6 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            /*
             int[] numbers = new int[5];
 
             numbers[0] = 4;
@@ -18,7 +17,9 @@ namespace Arrays
             numbers[2] = 15;
             numbers[3] = 16;
             numbers[4] = 23;
-            */
+
+            Console.WriteLine(numbers.Length);
+            Console.ReadLine();
 
             /*
             int[] numbers = new int[] { 4, 8, 15, 16, 23, 42 };
@@ -35,7 +36,8 @@ namespace Arrays
             }
             Console.ReadLine();
             */
-
+            
+            /*
             string zig =    "You can get what you want out of life" +
                             "if you help enough other people get what they want.";
             char[] charArray = zig.ToCharArray();
@@ -46,6 +48,7 @@ namespace Arrays
                 Console.Write(zigChar);
             }
             Console.ReadLine();
+            */
         }
     }
 }
