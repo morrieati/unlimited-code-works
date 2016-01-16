@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_MaximumDepthOfBinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237_DeleteNodeInALinkedList", "237_DeleteNodeInALinkedList\237_DeleteNodeInALinkedList.csproj", "{80E9E27B-A2D9-4F04-88A0-77C638E40840}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283_MoveZeroes", "283_MoveZeroes\283_MoveZeroes.csproj", "{C71E1534-049A-4BEF-BB36-7D030625F54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{80E9E27B-A2D9-4F04-88A0-77C638E40840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E9E27B-A2D9-4F04-88A0-77C638E40840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E9E27B-A2D9-4F04-88A0-77C638E40840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71E1534-049A-4BEF-BB36-7D030625F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71E1534-049A-4BEF-BB36-7D030625F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71E1534-049A-4BEF-BB36-7D030625F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71E1534-049A-4BEF-BB36-7D030625F54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
