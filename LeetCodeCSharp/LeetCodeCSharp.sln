@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "292_NimGame", "292_NimGame\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "258_AddDigits", "258_AddDigits\258_AddDigits.csproj", "{C520FFBD-FA71-46B2-90CA-A5F7180E1BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_MaximumDepthOfBinaryTree", "104_MaximumDepthOfBinaryTree\104_MaximumDepthOfBinaryTree.csproj", "{CBB7AA9F-4CCE-46FF-A19F-A166E3946BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C520FFBD-FA71-46B2-90CA-A5F7180E1BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C520FFBD-FA71-46B2-90CA-A5F7180E1BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C520FFBD-FA71-46B2-90CA-A5F7180E1BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB7AA9F-4CCE-46FF-A19F-A166E3946BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB7AA9F-4CCE-46FF-A19F-A166E3946BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB7AA9F-4CCE-46FF-A19F-A166E3946BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB7AA9F-4CCE-46FF-A19F-A166E3946BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
