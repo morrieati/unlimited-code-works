@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283_MoveZeroes", "283_MoveZ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{66FFC1AB-617C-4125-AA7A-368A4EFE53B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_SameTree", "100_SameTree\100_SameTree.csproj", "{1A8BD89D-C4D7-4278-9667-EDCE6A32EC3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{66FFC1AB-617C-4125-AA7A-368A4EFE53B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FFC1AB-617C-4125-AA7A-368A4EFE53B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FFC1AB-617C-4125-AA7A-368A4EFE53B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8BD89D-C4D7-4278-9667-EDCE6A32EC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8BD89D-C4D7-4278-9667-EDCE6A32EC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8BD89D-C4D7-4278-9667-EDCE6A32EC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8BD89D-C4D7-4278-9667-EDCE6A32EC3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
