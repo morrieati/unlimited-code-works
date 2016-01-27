@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217_ContainsDuplicate", "21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169_MajorityElement", "169_MajorityElement\169_MajorityElement.csproj", "{80E26B52-91CB-473A-8BA2-21A0427F3744}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235_LowestCommonAncestor", "235_LowestCommonAncestor\235_LowestCommonAncestor.csproj", "{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{80E26B52-91CB-473A-8BA2-21A0427F3744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E26B52-91CB-473A-8BA2-21A0427F3744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E26B52-91CB-473A-8BA2-21A0427F3744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
