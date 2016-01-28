@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169_MajorityElement", "169_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235_LowestCommonAncestor", "235_LowestCommonAncestor\235_LowestCommonAncestor.csproj", "{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "328_OddEvenLinkedList", "328_OddEvenLinkedList\328_OddEvenLinkedList.csproj", "{AF9D681A-F9DE-49B2-BC2B-F0D60EC47665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F9E7904-ECDE-40EE-B9DE-A2E16CD926A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9D681A-F9DE-49B2-BC2B-F0D60EC47665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D681A-F9DE-49B2-BC2B-F0D60EC47665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D681A-F9DE-49B2-BC2B-F0D60EC47665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D681A-F9DE-49B2-BC2B-F0D60EC47665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
