@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_RomanToInteger", "13_Rom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206_ReverseLinkedList", "206_ReverseLinkedList\206_ReverseLinkedList.csproj", "{5C2AF24D-16D1-410F-B14E-6AA2EDE26EC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83_RemoveDuplicates", "83_RemoveDuplicates\83_RemoveDuplicates.csproj", "{A2866BAD-3A48-4F94-9C9B-75D8F4297373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{5C2AF24D-16D1-410F-B14E-6AA2EDE26EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C2AF24D-16D1-410F-B14E-6AA2EDE26EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C2AF24D-16D1-410F-B14E-6AA2EDE26EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2866BAD-3A48-4F94-9C9B-75D8F4297373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2866BAD-3A48-4F94-9C9B-75D8F4297373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2866BAD-3A48-4F94-9C9B-75D8F4297373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2866BAD-3A48-4F94-9C9B-75D8F4297373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
