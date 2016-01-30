@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83_RemoveDuplicates", "83_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231_PowerOfTwo", "231_PowerOfTwo\231_PowerOfTwo.csproj", "{80ED973F-F820-4FB0-88CE-5FA885D3C5D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "326_PowerOfThree", "326_PowerOfThree\326_PowerOfThree.csproj", "{1BD46F6F-031B-4B8A-A916-C220568CFCEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{80ED973F-F820-4FB0-88CE-5FA885D3C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80ED973F-F820-4FB0-88CE-5FA885D3C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80ED973F-F820-4FB0-88CE-5FA885D3C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD46F6F-031B-4B8A-A916-C220568CFCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD46F6F-031B-4B8A-A916-C220568CFCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD46F6F-031B-4B8A-A916-C220568CFCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD46F6F-031B-4B8A-A916-C220568CFCEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
